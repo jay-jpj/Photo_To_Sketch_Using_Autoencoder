@@ -9,9 +9,9 @@ In this project, I demonstrate how to utilize an Autoencoder to transform photos
 
 ## Results
 
-![Generated Sketch](results/Autoencoder.png)
+![Generated Sketch](Results/Autoencoder.png)
 
 
-![Generated Sketch](results/Autoencoder2.png)
+![Generated Sketch](Results/Autoencoder2.png)
 
 
